@@ -1,0 +1,56 @@
+[
+
+    "start-print.html",
+    "plan.html",
+    "aol.html",
+    "change-acronym.html",
+    "change-acronym-2.html",
+    "what-is-rwd.html",
+    "versus.html",
+    "versus-adaptive.html",
+    "versus-mobile.html",
+    "versus-app.html",
+    "versus-responsive.html",
+    [
+    	"responsive-misconceptions.html",
+    	"responsive-misconceptions-2.html",
+    	"responsive-misconceptions-3.html",
+        "responsive-misconceptions-4.html",
+        "responsive-misconceptions-5.html",
+        "responsive-misconceptions-5-image.html"
+    ],
+    {
+        "filename": "zurb-960px.html",
+        "attr": {
+            "data-background": "#fff",
+            "data-background-transition": "slide"
+        }
+    },
+    "tools.html",
+    "tools-what.html",
+    "tools-benefits.html",
+    "q-and-a.html",
+    "frameworks.html",
+    "frameworks-2.html",
+    "zf5.html",
+    "zf5-grid.html",
+    "zf5-images.html",
+    "zf5-queries.html",
+    "zf5-custom.html",
+    "testing-tools.html",
+    {
+        "filename": "testing.html",
+        "attr": {
+            "data-background": "../img/testing-rwd.jpg",
+            "data-background-transition": "slide"
+        }
+    },
+    {
+        "filename": "closing.html",
+        "attr": {
+            "data-background": "#fff",
+            "data-background-transition": "slide"
+        }
+    }
+    
+]
